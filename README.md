@@ -1,1 +1,1 @@
-My first readme
+Makgotho wa pula
